@@ -7,7 +7,7 @@ const server = createServer((req, res) => {
 })
 
 server.listen(3000, '127.0.0.1', ()=>{
-    //log out that the server is running on port 3000
+    //log out that the server is running on 
     console.log('Server is running on port 3000');
     
 })
